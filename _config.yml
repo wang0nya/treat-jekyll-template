@@ -6,7 +6,7 @@ url: "https://thekenyanvegan.com/"
 baseurl:
 google_analytics_key:
 newsletter_action:
-disqus_shortname:
+disqus_shortname: thekenyanvegan
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
