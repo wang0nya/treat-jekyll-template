@@ -28,7 +28,11 @@
 		{% include navigation.html %}
 		<header>
 			<a href="{{site.baseurl }}/">
-				<img src="{{ site.baseurl }}/images/logo.svg" width="180" alt="logo">
+				<picture>
+					<source srcset="{{ site.baseurl }}/images/logo.webp"
+							media="(max-width: 400px)" alt="logo">
+					<img src="{{ site.baseurl }}/images/logo.png" width="400" alt="logo">
+				</picture>
 			</a>
 		</header>
 		<div class="container main-content">
@@ -39,6 +43,7 @@
 			<div class="container">
 				<hr>
 				&copy; {{ site.title }} {{ site.time | date: "%Y" }}. All rights reserved.
+				<div>Logo icon made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 			</div>
 		</footer>
 	</body>
