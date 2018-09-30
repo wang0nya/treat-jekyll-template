@@ -2,7 +2,7 @@
 # Site
 
 title: The Kenyan Vegan
-url: "https://spring-bat.cloudvent.net/"
+url: "https://thekenyanvegan.com/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,15 +10,15 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Vegan lifestyle, health tips and recipes... the Kenyan way.
+description: Vegan lifestyle, health tips and whole food recipes... the Kenyan way.
 author:
   name: The Kenyan Vegan
   email: the254vegan.gmail.com
-  twitter: # twitter username without the @ symbol
+  twitter: the_kenyanvegan
 social:
   name: The Kenyan vegan
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://thekenyanvegan.com/
 
 # -----
 # Build
