@@ -28,10 +28,10 @@ workbox.routing.registerRoute(
     workbox.strategies.cacheFirst()
 )
 
-// use `cacheFirst` strategy for recipes
+// use `networkFirst` strategy for recipes
 workbox.routing.registerRoute(
     /recipes\/(.*)/,
-    workbox.strategies.cacheFirst()
+    workbox.strategies.networkFirst()
 )
 
 // use `cacheFirst` strategy for about
