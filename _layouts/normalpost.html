@@ -21,6 +21,8 @@ comments: true
         <a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
     </div>
 
+    {% include mailchimp.html %}
+
     {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"></div>
     <script>
