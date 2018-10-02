@@ -3,11 +3,11 @@ date: 2018-10-02
 title: Protein Packed Banana Smoothie
 categories:
   - Smoothies
-featured_image: https://images.unsplash.com/photo-1524230789330-31ce487281ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ccf40b9945e9fcb82693641c9e200dda&auto=format&fit=crop&w=1050&q=80
+featured_image: /images/blog/featured/banana.jpg
 recipe:
   servings: 2
   prep: 3 minutes
-  blend: 90 seconds
+  blend: 1 minute
   ingredients_markdown: |-
     * 2 bananas (medium)
     * 3 tbsp peanut butter
@@ -15,10 +15,10 @@ recipe:
     * 1 more glass of almond milk
     * 3 tsp ground cinnamon
   directions_markdown: |-
-    1. Place all ingredients into a blender and blend for about 90 seconds.
+    1. Place all ingredients into a blender and blend for about 1 minute.
 
 ---
-Love bananas? Who doesn't! And they're available all year round in Kenya. They're also so cheap and healthy, you really don't have an excuse of 
+Love bananas? Who doesn't! And they're available all year round in Kenya. They're also so cheap and healthy, you really don't have an excuse for 
 not enjoying bananas every once in a while.
 
 A wide variety of health benefits are associated with the curvy yellow fruit. One serving of banana contains 110 calories, 30 grams of carbohydrate and 1 gram of protein. 
