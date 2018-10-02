@@ -24,6 +24,8 @@ not enjoying bananas every once in a while.
 A wide variety of health benefits are associated with the curvy yellow fruit. One serving of banana contains 110 calories, 30 grams of carbohydrate and 1 gram of protein. 
 Bananas are naturally free of fat, cholesterol, and sodium. They provide a variety of vitamins and minerals among them Vitamin B6, Manganese, Vitamin C and Potassium.
 
+![bananafact](/images/blog/facts/bananafact.jpg)
+
 If you're looking for a healthy protein packed smoothie for breakfast, here's a fun recipe to try out.
 
-![bananas](/images/blog/facts/bananafact.jpg)
+![bananapin](/images/blog/pins/bananapin.jpg)

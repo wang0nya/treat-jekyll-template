@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c7dd95-dfa7-4bd5-b5aa-2b9270497f5e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/featured/10protein.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/memes/banana.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +30,7 @@
           <entry key="json" value="1" />
           <entry key="md" value="11" />
           <entry key="png" value="6" />
-          <entry key="scss" value="15" />
+          <entry key="scss" value="17" />
           <entry key="svg" value="3" />
           <entry key="txt" value="1" />
           <entry key="yml" value="15" />
@@ -47,7 +44,7 @@
           <entry key="JavaScript" value="3" />
           <entry key="Markdown" value="11" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="SCSS" value="15" />
+          <entry key="SCSS" value="17" />
           <entry key="SVG" value="3" />
           <entry key="YAML" value="15" />
         </counts>
@@ -58,7 +55,7 @@
           <entry key="html" value="1363" />
           <entry key="js" value="99" />
           <entry key="json" value="86" />
-          <entry key="md" value="1540" />
+          <entry key="md" value="1553" />
           <entry key="yml" value="225" />
         </counts>
       </usages-collector>
@@ -67,7 +64,7 @@
           <entry key="HTML" value="1363" />
           <entry key="JSON" value="86" />
           <entry key="JavaScript" value="99" />
-          <entry key="Markdown" value="1540" />
+          <entry key="Markdown" value="1553" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="225" />
         </counts>
@@ -89,32 +86,10 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/recipe-icon.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2670">
-              <caret line="178" column="10" selection-start-line="178" selection-start-column="10" selection-end-line="178" selection-end-column="10" />
-              <folding>
-                <element signature="n#style#0;n#svg#3;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#svg#4;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -266,7 +241,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26956000" />
+    <option name="totallyTimeSpent" value="27235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -361,12 +336,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/blog.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/screen.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/print.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/company_details.yml">
@@ -519,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/recipe-icon.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2670">
@@ -537,11 +499,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/screen.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/print.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
