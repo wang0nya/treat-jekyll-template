@@ -1,11 +1,11 @@
 ---
 date: 2018-10-02
-title: Peanut Butter Banana Smoothie
+title: Protein Packed Banana Smoothie
 categories:
   - Smoothies
 featured_image: https://images.unsplash.com/photo-1524230789330-31ce487281ec?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ccf40b9945e9fcb82693641c9e200dda&auto=format&fit=crop&w=1050&q=80
 recipe:
-  servings: 2 glasses
+  servings: 2
   prep: 3 minutes
   blend: 90 seconds
   ingredients_markdown: |-
@@ -24,6 +24,6 @@ not enjoying bananas every once in a while.
 A wide variety of health benefits are associated with the curvy yellow fruit. One serving of banana contains 110 calories, 30 grams of carbohydrate and 1 gram of protein. 
 Bananas are naturally free of fat, cholesterol, and sodium. They provide a variety of vitamins and minerals among them Vitamin B6, Manganese, Vitamin C and Potassium.
 
-If you're looking for a healthy filling smoothie for breakfast, here's a fun recipe to try out.
+If you're looking for a healthy protein packed smoothie for breakfast, here's a fun recipe to try out.
 
-![bananas](/images/blog/memes/banana.jpg)
+![bananas](/images/blog/facts/bananafact.jpg)

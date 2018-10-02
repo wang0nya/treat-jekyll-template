@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c7dd95-dfa7-4bd5-b5aa-2b9270497f5e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/normal-post-heading.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/recipe-icon.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/recipe-icon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/recipe-post-heading.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/normalpost.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/recipepost.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-30-coming-soon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/soon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/featured/10protein.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/memes/banana.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,7 +58,7 @@
           <entry key="html" value="1363" />
           <entry key="js" value="99" />
           <entry key="json" value="86" />
-          <entry key="md" value="1497" />
+          <entry key="md" value="1540" />
           <entry key="yml" value="225" />
         </counts>
       </usages-collector>
@@ -73,7 +67,7 @@
           <entry key="HTML" value="1363" />
           <entry key="JSON" value="86" />
           <entry key="JavaScript" value="99" />
-          <entry key="Markdown" value="1497" />
+          <entry key="Markdown" value="1540" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="225" />
         </counts>
@@ -92,11 +86,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="390">
-                <caret line="26" column="95" selection-start-line="26" selection-start-column="95" selection-end-line="26" selection-end-column="95" />
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,6 +171,7 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_includes/recipe-icon.html" />
         <option value="$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md" />
       </list>
     </option>
   </component>
@@ -271,7 +266,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26136000" />
+    <option name="totallyTimeSpent" value="26956000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -542,11 +537,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-peanut-butter-banana-smoothie.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-02-10-protein-packed-banana-smoothie.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="390">
-            <caret line="26" column="95" selection-start-line="26" selection-start-column="95" selection-end-line="26" selection-end-column="95" />
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
