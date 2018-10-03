@@ -4,7 +4,7 @@ console.log('Offline mode enabled! 🎉 🎉')
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({
     prefix: 'treat-jekyll-template',
-    suffix: 'v1',
+    suffix: 'v2',
     precache: 'precache',
     runtime: 'runtime-cache'
 })
