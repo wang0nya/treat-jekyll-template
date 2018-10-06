@@ -1,5 +1,8 @@
 {% if include.post_page %}
 	<div class="take-me">
+		{% if page.youtubeId %}
+		<a class="button" href="#video">Watch video</a>
+		{% endif %}
 		<a class="button" href="#recipe">Jump to recipe</a>
 	</div>
 {% endif %}

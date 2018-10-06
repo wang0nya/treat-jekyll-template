@@ -12,17 +12,27 @@ comments: true
 		{{ content }}
 	</div>
 
-	<ul id="recipe" class="recipe-overview">
-		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
-		<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
-		{% if page.recipe.cook %}
-		<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
-		{% elsif page.recipe.blend %}
-		<li title="Blend Time">{% include recipe-icon.html icon="blend" %}<span>{{ page.recipe.blend }}</span></li>
-		{% elsif page.recipe.juice %}
-		<li title="Juice Time">{% include recipe-icon.html icon="juice" %}<span>{{ page.recipe.juice }}</span></li>
-		{% endif %}
-	</ul>
+	{% if page.youtubeId %}
+	<div id="video">
+		<br>
+		{% include youtubePlayer.html id=page.youtubeId %}
+	</div>
+	{% endif %}
+
+	<div id="recipe">
+		<br>
+		<ul class="recipe-overview">
+			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
+			<li title="Prep Time">{% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}</span></li>
+			{% if page.recipe.cook %}
+			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
+			{% elsif page.recipe.blend %}
+			<li title="Blend Time">{% include recipe-icon.html icon="blend" %}<span>{{ page.recipe.blend }}</span></li>
+			{% elsif page.recipe.juice %}
+			<li title="Juice Time">{% include recipe-icon.html icon="juice" %}<span>{{ page.recipe.juice }}</span></li>
+			{% endif %}
+		</ul>
+	</div>
 
 	<div class="recipe-contents">
 		<div class="ingredients">

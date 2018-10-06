@@ -16,7 +16,6 @@ recipe:
     * 3 tsp ground cinnamon
   directions_markdown: |-
     1. Place all ingredients into a blender and blend for about 1 minute.
-
 ---
 Love bananas? Who doesn't! And they're available all year round in Kenya. They're also so cheap and healthy, you really don't have an excuse for 
 not enjoying bananas every once in a while.
